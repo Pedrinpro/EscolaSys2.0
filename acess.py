@@ -212,7 +212,7 @@ def MENU():
     color_text("[07] Remover um aluno", "red")
     color_text("[08] AjudaIA", "green")
     color_text("[09] transformar csv em db", 'blue')
-    color_text("[10] transvormar db em csv")
+    color_text("[10] transvormar db em csv", 'yellow')
     color_text('[00] sair', 'cyan')
     o = input("escolha a opção: ")
     if o == '01' or o == '1':
